@@ -97,6 +97,8 @@ During the process of porting OpenSSH to Android, several issues were identified
 
 Contributions and feedback are welcome! Please ensure that any modifications you make are documented in this `README.md` so that other users can benefit from your changes. If you have questions or suggestions, please open an issue here:
 
+https://github.com/sansjtw1/android-openssh/issues
+
 ## License
 
-This project is released under the [OpenSSH (OpenBSD) policy](). Please review the OpenSSH policy before using or modifying this code.
+This project is released under the [OpenSSH (OpenBSD) policy](https://www.openbsd.org/policy.html). Please review the OpenSSH policy before using or modifying this code.
